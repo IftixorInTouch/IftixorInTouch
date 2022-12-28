@@ -14,9 +14,10 @@ I'm Iftikhor, a professional **self-taughted** FullStack web developer from Tash
 
 ### Technologies
 
-![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)
-![](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=092E20)
+![](https://img.shields.io/badge/-Django-000?&logo=Django)
+![](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![](https://img.shields.io/badge/-Graphql-000?&logo=graphql)
 ![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 ![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -28,6 +29,8 @@ I'm Iftikhor, a professional **self-taughted** FullStack web developer from Tash
 ![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)
 ![](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![](https://img.shields.io/badge/-nginx-000?&logo=nginx)
+![](https://img.shields.io/badge/-postman-000?&logo=postman)
 ![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)
 ![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
